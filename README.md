@@ -6,6 +6,10 @@ A production-grade React Native application that redefines the "Super App" conce
 
 Built with scalability and fluid user experience in mind, this application leverages complex hardware integrations, real-time WebSockets, and native-driven animations to deliver a premium native feel on both iOS and Android.
 
+### 📱 Download the App
+- [Download on the App Store (iOS)](https://apps.apple.com/in/app/evolution35/id6740553296)
+
+
 ## 🚀 Tech Stack
 
 - **Core Framework:** React Native (v0.76.7) & React (v18.3.1)
